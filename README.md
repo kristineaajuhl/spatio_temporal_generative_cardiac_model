@@ -5,7 +5,7 @@ Authors: Kristine Sørensen, Paula Diez, Jan Margeta, Yasmin El Youssef, Michael
 
 contact: Kristine Sørensen - kajul@dtu.dk
 
-![](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif)
+![](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif) ![](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/reconstruction_v2.png)
 
 ## Data Preparation
 Data preparation code is coming up
