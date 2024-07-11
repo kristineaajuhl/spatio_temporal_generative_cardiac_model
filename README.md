@@ -6,8 +6,8 @@ Authors: Kristine Sørensen, Paula Diez, Jan Margeta, Yasmin El Youssef, Michael
 contact: Kristine Sørensen - kajul@dtu.dk
 
 <div>
-    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif" width="20%"/>
-    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/reconstruction_v2.png" width="70%"/>
+    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif" width="40%"/>
+    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/reconstruction_v2.png" width="59%"/>
 </div>
 
 ## Data Preparation
