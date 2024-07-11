@@ -19,7 +19,7 @@ python sample_distances_time.py
 ```
 
 ## Training
-![](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/pipeline%2BSDF.eps)
+![](https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/pipeline.png)
 Training procedures are coming up
 
 ```
