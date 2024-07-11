@@ -13,6 +13,10 @@ Data preparation code is coming up
 ## Training
 Training procedures are coming up
 
+```
+python train.py --exp_dir "Path/to/experiment/folder/" 
+```
+
 ## Testing
 Test procedures are coming up
 
