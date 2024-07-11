@@ -21,7 +21,7 @@ python train.py --exp_dir "Path/to/experiment/folder/"
 Test procedures are coming up
 
 ```
-python test.py --exp_dir "Path/to/experiment/folder/" --resume epoch_to_test --task test_task
+python test.py --exp_dir "Path/to/experiment/folder/" --resume "epoch_to_test" --task "test_task"
 ```
 
 Test tasks: 
