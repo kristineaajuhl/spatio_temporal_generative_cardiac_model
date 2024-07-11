@@ -10,7 +10,7 @@ contact: Kristine Sørensen - kajul@dtu.dk
 ## Data Preparation
 Data preparation code is coming up
 
-To train the network a .npz file with coordinate-distance pairs is required. 
+To train the network a .npz file with coordinate-distance pairs for every shape at every time frame is required.
 Below is an example-script preparing a set of pairs from a collection of surfaces. All surfaces are aligned to a common template, scaled with a common scale-factor to fit within the unit-sphere and the point-distance samples are sampled using the method from [NUDF](https://github.com/kristineaajuhl/NUDF).
 The code runs on 16 cores to speed up the sampling time. 
 
