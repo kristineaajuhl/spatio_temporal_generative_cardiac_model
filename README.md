@@ -51,6 +51,7 @@ Test tasks:
   journal={XXX},
   year={2024}
 }
+```
 
 ## Acknowledgements
 Scripts take base in code from: XX
