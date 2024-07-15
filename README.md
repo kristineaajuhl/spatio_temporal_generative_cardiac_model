@@ -10,6 +10,13 @@ contact: Kristine Sørensen - kajul@dtu.dk
     <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/reconstruction_v2.png" width="64%"/>
 </div>
 
+## Installation
+Install the conda environment as
+
+```
+conda env create -f environment.yml
+```
+
 ## Data Preparation
 To train the network a .npz file with coordinate-distance pairs for every shape at every time frame is required.
 Below is an example-script preparing a set of pairs from a collection of surfaces. All surfaces are aligned to a common template, scaled with a common scale-factor to fit within the unit-sphere and the point-distance samples are sampled using the method from [NUDF](https://github.com/kristineaajuhl/NUDF).
