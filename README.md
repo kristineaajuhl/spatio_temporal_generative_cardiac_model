@@ -50,8 +50,8 @@ Test tasks:
 
 ## Acknowledgements
 We adapt code from: 
-deepSDF: [deepSDF](https://github.com/facebookresearch/DeepSDF)
-DiffusionSDF: [DiffusionSDF](https://github.com/princeton-computational-imaging/Diffusion-SDF)
-Hyperdiffusion [Hyperdiffusion](https://github.com/Rgtemze/HyperDiffusion) 
+- [deepSDF](https://github.com/facebookresearch/DeepSDF)
+- [DiffusionSDF](https://github.com/princeton-computational-imaging/Diffusion-SDF)
+- [Hyperdiffusion](https://github.com/Rgtemze/HyperDiffusion) 
 
 
