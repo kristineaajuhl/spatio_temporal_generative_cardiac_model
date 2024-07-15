@@ -1,0 +1,36 @@
+{
+  "Description" : "Training scripts as of MICCAI 2024",
+  "TrainSplit" : "data/splits/train.json",
+  "TestSplit" : "data/splits/test.json",
+  "data_path" : "path/to/point_distance/samples/",
+
+  "num_epochs" : 1001,
+  "log_freq" : 100,
+
+  "latent_specs": {
+    "latent_size": 128,
+    "shape_latent_size": 64,
+    "condition_latent_size": 64,
+    "CodeInitStdDev": 0.01,
+    "sdf_lr": 0.0005,
+    "latent_lr": 0.001,
+    "CodeRegularizationLambda" : 1e-4,
+    "ConditionRegularizationLambda": 1e-4,
+    "clamp_value": 0.1,
+    "num_examples": 300,
+    "n_conditions": 7
+  },
+  "latent_model_specs" : {
+    "dims" : [ 512, 512, 512, 512, 512, 512, 512, 512 ],
+    "dropout" : [0, 1, 2, 3, 4, 5, 6, 7],
+    "dropout_prob" : 0.2,
+    "norm_layers" : [],
+    "latent_in" : [4],
+    "xyz_in_all" : false,
+    "use_tanh" : false,
+    "latent_dropout" : false,
+    "weight_norm" : true
+    }
+}
+
+
