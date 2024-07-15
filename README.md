@@ -40,8 +40,8 @@ python test.py --exp_dir "Path/to/experiment/folder/" --resume "epoch_to_test" -
 
 Test tasks: 
 - sequence_completion_training: Reconstruct the sequence from training set based on optimized latent vector (l. 66 specified which number in the training set to be reconstructud)
-- sequence_completion_test: Reconstruct test sequences from single timestep
-- sequence_generation: Generate unique sequence with specified demography (l. 158-160) specifies the demography)
+- sequence_completion_test: Reconstruct test sequences from single timestep (l. 16 in dataloader specifies time-index to recontruct from)
+- sequence_generation: Generate unique sequence with specified demography (l. 158-160 specifies the demography)
 - sequence_generation_similarconditions: Generate unique sequences matching the demographic of the test set
 
 ## Cite
