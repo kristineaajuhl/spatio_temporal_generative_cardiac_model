@@ -49,5 +49,9 @@ Test tasks:
 ```
 
 ## Acknowledgements
-Scripts take base in code from: XX
+We adapt code from: 
+deepSDF: [](https://github.com/facebookresearch/DeepSDF)
+DiffusionSDF: [](https://github.com/princeton-computational-imaging/Diffusion-SDF)
+Hyperdiffusion [](https://github.com/Rgtemze/HyperDiffusion) 
+
 
