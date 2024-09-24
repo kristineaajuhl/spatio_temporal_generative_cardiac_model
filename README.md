@@ -1,9 +1,9 @@
 # Spatio-temporal neural distance fields for conditional generative modeling of the heart
 Repository linked to publication: "Spatio-temporal neural distance fields for conditional generative modeling of the heart" accepted for MICCAI 2024. 
 
-Authors: Kristine Sørensen, Paula Diez, Jan Margeta, Yasmin El Youssef, Michael Pham, Jonas Jalili Pedersen, Tobias Kühl, Ole de Backer, Klaus Kofoed, Oscar Camara, and Rasmus Paulsen
+**Authors:** Kristine Sørensen, Paula Diez, Jan Margeta, Yasmin El Youssef, Michael Pham, Jonas Jalili Pedersen, Tobias Kühl, Ole de Backer, Klaus Kofoed, Oscar Camara, and Rasmus Paulsen
 
-contact: Kristine Sørensen - kajul@dtu.dk
+**Contact:** Kristine Sørensen - kajul@dtu.dk
 
 ##
 Completed heart cycle for a normal (left) and abnormal (right) beating pattern:
