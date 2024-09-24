@@ -15,9 +15,7 @@ contact: Kristine Sørensen - kajul@dtu.dk
 </div>
 
 <div>
-    <p>Normal Heartbeat</p>
     <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif" width="45%"/>
-    <p>Abnormal Heartbeat</p>
     <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/abnormal_1hb.gif" width="45%"/>
 <div>
 
