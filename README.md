@@ -5,7 +5,7 @@ Authors: Kristine Sørensen, Paula Diez, Jan Margeta, Yasmin El Youssef, Michael
 
 contact: Kristine Sørensen - kajul@dtu.dk
 
-
+##
 Completed heart cycle for a normal (left) and abnormal (right) beating pattern:
 <div>
     <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif" width="45%"/>
