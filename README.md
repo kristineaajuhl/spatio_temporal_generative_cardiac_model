@@ -6,20 +6,16 @@ Authors: Kristine Sørensen, Paula Diez, Jan Margeta, Yasmin El Youssef, Michael
 contact: Kristine Sørensen - kajul@dtu.dk
 
 <div style="display: flex; justify-content: space-between;">
-  <div style="text-align: center; width: 45%;">
+  <div style="text-align: center;">
     <p>Normal Heartbeat</p>
-    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif" width="100%"/>
+    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif" width="45%"/>
   </div>
-  <div style="text-align: center; width: 45%;">
+  <div style="text-align: center;">
     <p>Abnormal Heartbeat</p>
-    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/abnormal_1hb.gif" width="100%"/>
+    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/abnormal_1hb.gif" width="45%"/>
   </div>
 </div>
 
-<div>
-    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/normal_cropped.gif" width="45%"/>
-    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/abnormal_1hb.gif" width="45%"/>
-<div>
 <div>
     <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/reconstruction_v2.png" width="80%"/>
 </div>
