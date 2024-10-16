@@ -1,9 +1,11 @@
 # Spatio-temporal neural distance fields for conditional generative modeling of the heart
-Repository linked to publication: "Spatio-temporal neural distance fields for conditional generative modeling of the heart" accepted for MICCAI 2024. 
+Repository linked to publication: "Spatio-temporal neural distance fields for conditional generative modeling of the heart" presented MICCAI 2024. 
 
 **Authors:** Kristine Sørensen, Paula Diez, Jan Margeta, Yasmin El Youssef, Michael Pham, Jonas Jalili Pedersen, Tobias Kühl, Ole de Backer, Klaus Kofoed, Oscar Camara, and Rasmus Paulsen
 
 **Contact:** Kristine Sørensen - kajul@dtu.dk
+
+Full paper link: https://link.springer.com/chapter/10.1007/978-3-031-72384-1_40
 
 ##
 Completed heart cycle for a normal (left) and abnormal (right) beating pattern:
@@ -51,13 +53,16 @@ Test tasks:
 - sequence_generation_similarconditions: Generate unique sequences matching the demographic of the test set
 
 ## Cite
-
 ```bibtex
 @article{sorensen2024,
-  title={Spatio-temporal neural distance fields for conditional generative modeling of the heart},
-  author={Kristine Sørensen, Paula Diez, Jan Margeta, Yasmin El Youssef, Michael Pham, Jonas Jalili Pedersen, Tobias Kühl, Ole de Backer, Klaus Kofoed, Oscar Camara, and Rasmus Paulsen},
-  journal={XXX},
-  year={2024}
+  author = {Sørensen, Kristine and Diez, Paula and Margeta, Jan and El Youssef, Yasmin and Pham, Michael and Pedersen, Jonas Jalili and Kühl, Tobias and de Backer, Ole and Kofoed, Klaus and Camara, Oscar and Paulsen, Rasmus},
+  title = {Spatio-Temporal Neural Distance Fields for Conditional Generative Modeling of the Heart},
+  journal = {Medical Image Computing and Computer Assisted Intervention – Miccai 2024},
+  pages = {422-432},
+  year = {2024},
+  isbn = {303172383X, 3031723848, 9783031723834, 9783031723841},
+  publisher = {Springer Nature Switzerland},
+  doi = {10.1007/978-3-031-72384-1_40}
 }
 ```
 
