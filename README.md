@@ -5,7 +5,7 @@ Repository linked to publication: "Spatio-temporal neural distance fields for co
 
 **Contact:** Kristine Sørensen - kajul@dtu.dk
 
-Full paper link: https://link.springer.com/chapter/10.1007/978-3-031-72384-1_40
+[Full paper]( https://link.springer.com/chapter/10.1007/978-3-031-72384-1_40) | [Preprint](https://arxiv.org/abs/2407.10663)
 
 ##
 Completed heart cycle for a normal (left) and abnormal (right) beating pattern:
