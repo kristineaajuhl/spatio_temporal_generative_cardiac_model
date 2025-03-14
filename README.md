@@ -18,6 +18,10 @@ Completed heart cycle for a normal (left) and abnormal (right) beating pattern:
     <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/reconstruction_v2.png" width="80%"/>
 </div>
 
+Effect of changing BMI (20-35)
+<!--  Purple Text -->
+<span  style="color: purple;">This text is purple.</span>
+
 ## Installation
 Install the conda environment as
 
