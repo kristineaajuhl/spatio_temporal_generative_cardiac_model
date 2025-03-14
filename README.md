@@ -21,8 +21,10 @@ Completed heart cycle for a normal (left) and abnormal (right) beating pattern:
 Effect of changing BMI 20 (pink) to 35 (blue)
 <div>
     <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/weight_manipulation_train0_v3.gif" width="45%"/>
-    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/weight_manipulation_train1_v2" width="45%"/>
+    <img src="https://github.com/kristineaajuhl/spatio_temporal_generative_cardiac_model/blob/main/weight_manipulation_train1_v2.gif" width="45%"/>
 <div>
+Left: Male, 70-79 years old, 170 cm, 85 kg, SBP: 148 mmHg. 
+Right: Female, 60-69 years old, 163 cm, 62 kg, 134 mmHg
 
 
 ## Installation
